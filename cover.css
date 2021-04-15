@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+header{
+    text-align: center;
+    background-color: black;
+    width: 100vw;
+    height: 40px;
+    
+}
+section{
+    text-align: center;
+    padding-left: 10cm;
+    padding-right: 10cm;
+    font-size: 25px;
+    background-color: blanchedalmond;
+    height: 50vw;
+}
